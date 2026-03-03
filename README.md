@@ -47,7 +47,7 @@ This application:
   "potential_impact": "A brief sentence on the potential impact on users if unresolved"
 }
 
-🧱 System Architecture
+## 🧱 System Architecture
 Streamlit UI
      ↓
 FastAPI Backend
